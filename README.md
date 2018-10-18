@@ -1,4 +1,4 @@
-# website-visitor-counter
+# Website Visitor Counter
 Simple Website Visitor Counter Using PHP &amp; MySQL
 
 # Step-by-Step Tutorial
